@@ -1,0 +1,5 @@
+baseURL = "https://codechomp.github.io/"
+languageCode = "en-us"
+title = "Vipul Gaur"
+theme = "hugo-PaperMod"
+publishDir = "docs"
