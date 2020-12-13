@@ -5,11 +5,36 @@
     <link>https://codechomp.github.io/</link>
     <description>Recent content on Vipul Gaur</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://codechomp.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Dec 2020 10:20:16 +0530</lastBuildDate><atom:link href="https://codechomp.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://codechomp.github.io/posts/first/</link>
+      <pubDate>Sun, 13 Dec 2020 10:20:16 +0530</pubDate>
+      
+      <guid>https://codechomp.github.io/posts/first/</guid>
+      <description>RasaLit A collection of helpful viewers that help with understand Rasa NLU components. Some of these views are made using streamlit, hence the wink in the name.
+Feedback is welcome.
+Contribute There are many ways you can contribute to this project.
+ You can suggest new features. You can help review new features. You can submit new components. You can let us know if there are bugs. You can let us know if the components in this library help you.</description>
+    </item>
+    
+    <item>
+      <title>Third</title>
+      <link>https://codechomp.github.io/posts/third/</link>
+      <pubDate>Sun, 13 Dec 2020 10:20:16 +0530</pubDate>
+      
+      <guid>https://codechomp.github.io/posts/third/</guid>
+      <description>RasaLit A collection of helpful viewers that help with understand Rasa NLU components. Some of these views are made using streamlit, hence the wink in the name.
+Feedback is welcome.
+Contribute There are many ways you can contribute to this project.
+ You can suggest new features. You can help review new features. You can submit new components. You can let us know if there are bugs. You can let us know if the components in this library help you.</description>
+    </item>
+    
     <item>
       <title>Om Shree Ganeshaya Namah</title>
       <link>https://codechomp.github.io/posts/rasa/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 12 Nov 2020 16:16:39 +0530</pubDate>
       
       <guid>https://codechomp.github.io/posts/rasa/</guid>
       <description>this is a test post </description>
